@@ -1,0 +1,14 @@
+layout_spectrum: 0.916209717746824
+typography_spectrum: 0.19162785075604916
+color:
+  brandStrength: 0.15838322509080172
+  lightness: 0.48135168571025133
+  saturation: 0.5767430241685361
+  rhythmicContrast: 0.6906267132144421
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: SouthernUrbanist
